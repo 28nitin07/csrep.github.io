@@ -4,11 +4,11 @@ source "https://rubygems.org"
 
 # ruby "3.4.0"   
 
-gem "eventmachine", "~> 1.2", require: false, platform: :ruby
+# gem "eventmachine", "~> 1.2", require: false, platform: :ruby
 
 gemspec
 
-gem "jekyll", "~> 4.3"
+# gem "jekyll", "~> 4.3"
 
 gem "html-proofer", "~> 5.0", group: :test
 
