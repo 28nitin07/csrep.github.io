@@ -4,7 +4,7 @@
   <id>https://csrep.github.io/</id>
   <title>CS@Ashoka</title>
   <subtitle>CS@Ashoka, maintained by the Department Representatives, is your go-to resource for all things Computer Science at Ashoka University. Explore course materials, project showcases, internship opportunities, and more, all curated to enhance your academic journey.</subtitle>
-  <updated>2025-11-24T09:22:33+05:30</updated>
+  <updated>2026-01-31T03:09:26+05:30</updated>
   <author>
     <name>CS Department Representatives</name>
     <uri>https://csrep.github.io/</uri>
@@ -13,7 +13,7 @@
   <link rel="alternate" type="text/html" hreflang="en"
     href="https://csrep.github.io/"/>
   <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
-  <rights> © 2025 CS Department Representatives </rights>
+  <rights> © 2026 CS Department Representatives </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
