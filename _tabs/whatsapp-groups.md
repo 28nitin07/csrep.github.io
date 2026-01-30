@@ -15,126 +15,117 @@ To add or update a group, email **cs.reps@ashoka.edu.in**.
 
 ---
 
-### CS-1102-1: Introduction to Computer Science  
-**Instructor:** Aalok Thakkar  
+### Theory of Computation  
+**Join:** [Join Group](https://chat.whatsapp.com/JexnHUgbqnt0S8gLPd46O7)  
+
+---
+
+### Programming Languages and Translation  
 **Join:** _Group not yet added_  
 
 ---
 
-### CS-1110: Discrete Mathematics  
-**Instructor:** Gaurav Bhatnagar  
+### Data Science and Management  
+**Join:** [Join Group](https://chat.whatsapp.com/JC91mmsR0Md6gGJaPZh65a)  
+
+---
+
+### Introduction to Computer Science  
 **Join:** _Group not yet added_  
 
 ---
 
-### CS-2102-1: Programming Lab  
-**Instructor:** Debayan Gupta  
-**Join:** [Join Group](https://chat.whatsapp.com/DEFA7Ri1ILm00h1uMPtjID?mode=ems_copy_c)
+### Discrete Mathematics (Prof PPD)  
+**Join:** [Join Group](https://chat.whatsapp.com/HS6rsy4zyqdHzxyzSdvUxD)  
 
 ---
 
-### CS-2212-1: Data Structures and Algorithms  
-**Instructor:** Anirban Sen  
+### Discrete Mathematics (Prof Jhawar)  
+**Join:** [Join Group](https://chat.whatsapp.com/IUjlDDK2UJwBUtWwWUH5qQ)  
+
+---
+
+### Introduction to Quantitative Finance  
 **Join:** _Group not yet added_  
 
 ---
 
-### CS-3220: Numerical Algorithms and Optimization  
-**Instructor:** Sandeep Juneja  
-**Join:** [Join Group](https://chat.whatsapp.com/I7ymc6CIDHV3zX7YfcG37D)
+### Design and Analysis of Algorithms  
+**Join:** [Join Group](https://chat.whatsapp.com/Jyyi6eKaBiELMK7I5Ih6q1)  
 
 ---
 
-### CS-3340: Programming Languages and Translation  
-**Instructor:** PPD  
-**Join:** [Join Group](https://chat.whatsapp.com/CghPPupFAym8Mb4Xw5U4Pm?mode=ems_copy_t)
+### Information Security  
+**Join:** [Join Group](https://chat.whatsapp.com/CGqymavSBr89spRszCsokx)  
 
 ---
 
-### CS-3410: Introduction to Machine Learning  
-**Instructor:** Lipika Dey  
+### Computer Networks  
+**Join:** [Join Group](https://chat.whatsapp.com/DybJ3iwJayIEPZd1t7qJFW)  
+
+---
+
+### Natural Language Processing - Theory and Apps  
 **Join:** _Group not yet added_  
 
 ---
 
-### CS-3610-1: Information Security  
-**Instructor:** Suban  
-**Join:** [Join Group](https://chat.whatsapp.com/ENXupRQSlRlFxkkLUZAuCC?mode=ems_copy_t)
+### Computer Organization and Systems  
+**Join:** [Join Group](https://chat.whatsapp.com/Hjx8X0EQymtAouaEGC3sDf)  
 
 ---
 
-### CS-3620-1: Computer Networks  
-**Instructor:** Mahavir Jhawar  
-**Join:** [Join Group](https://chat.whatsapp.com/Gt2pEPMe20pEh2kOsXSsC3?mode=ems_copy_t)
+### Data Structures and Algorithms  
+**Join:** [Join Group](https://chat.whatsapp.com/I963TYIfxLmKuRzPtfrTCA)  
 
 ---
 
-### CS-3621: Cryptography  
-**Instructor:** Mahavir Jhawar  
-**Join:** _Group not yet added_
-
----
-
-### CS-3810-1: Design Practices in CS  
-**Instructor:** PPD  
-**Join:** [Join Group](https://chat.whatsapp.com/B6hA6VVdUCZC8fws1jMTgi?mode=ems_copy_t)
-
----
-
-### CS-4112: Stochastic Calculus and Mathematical Finance  
-**Instructor:** Sandeep Juneja  
+### Graph Theory and Network Science  
 **Join:** _Group not yet added_  
 
 ---
 
-### CS-4231-1: Graph Theory and Network Science  
-**Instructor:** BBB  
-**Join:** [Join Group](https://chat.whatsapp.com/GUVGzA2Dx8c2P5GqBILPU6?mode=ems_wa_c)
+### Computer Vision  
+**Join:** _Group not yet added_  
 
 ---
 
-### CS-4232-1: Computational Geometry  
-**Instructor:** BBB  
-**Join:** [Join Group](https://chat.whatsapp.com/Lton5fKFZEE1V7na3Gf8K6?mode=ems_wa_c)
+### Introduction to Machine Learning  
+**Join:** [Join Group](https://chat.whatsapp.com/CspvHLWfv1dFOKfYH2c4hm)  
 
 ---
 
-### CS-4440-1: Artificial Intelligence  
-**Instructor:** Lipika Dey  
-**Join:** _Group not yet added_
+### Quantum Computing and Quantum Info Theory  
+**Join:** [Join Group](https://chat.whatsapp.com/BxKOxVES2O3JAhzLkX1wGP)  
 
 ---
 
-### CS-5211-1: Advanced Algorithms  
-**Instructor:** Sandeep Sen  
-**Join:** [Join Group](https://chat.whatsapp.com/FXaKKygGPAy08hBSPTSVdX?mode=ems_wa_c)
+### Mechanism Design  
+**Join:** _Group not yet added_  
 
 ---
 
-### CS-5310: Symbolic Logic and Applications  
-**Instructor:** Aalok Thakkar  
-**Join:** [Join Group](https://chat.whatsapp.com/KcTD2P2BxBe3jiZ3o3PdX5?mode=ems_copy_c)
+### Probability and Statistics  
+**Join:** _Group not yet added_  
 
 ---
 
-### CS-2210-1: Linear Algebra  
-**Instructor:** Sourav Ghosh  
-**Join:** _Group not yet added_
+### Linear Algebra  
+**Join:** _Group not yet added_  
 
 ---
 
-### CS-2210-2: Linear Algebra  
-**Instructor:** Suraj Meda  
-**Join:** _Group not yet added_
+### Physics Primer  
+**Join:** [Join Group](https://chat.whatsapp.com/KONBToxQuHyF7CEvtCCrQy)  
 
 ---
 
-### CS-1209: Probability and Statistics  
-**Instructor:** Debapratim B.  
-**Join:** _Group not yet added_
+### Introduction to Biology I (Prof Laasya)  
+**Join:** [Join Group](https://chat.whatsapp.com/J1LQwCfMjLXDpq64Zc8wNi)  
 
 ---
 
-### Note  
-This list is unofficial and updated manually.  
-If a link stops working or a course is missing, please contact **cs.reps@ashoka.edu.in**.
+### Introduction to Biology I (Prof Imroze)  
+**Join:** _Group not yet added_  
+
+---

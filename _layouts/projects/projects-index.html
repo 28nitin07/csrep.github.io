@@ -191,9 +191,10 @@ html[data-mode="light"] .project-card:hover {
             {% include datetime.html date=project.date lang=lang %}
           </div>
         {% endif %}
-        {% if project.department %}
+        
+        <!-- {% if project.department %}
           <div>{{ project.department }}</div>
-        {% endif %}
+        {% endif %} -->
       </div>
 
       {% if project.advisor %}
