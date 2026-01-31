@@ -9,45 +9,120 @@ layout: default
    </a>
 </div>
 
+<article class="alumni-profile">
 
-<article class="alumni-profile prose mx-auto my-8">
-
-  <header class="mb-4">
-    <div class="text-center">
-    <h1 class="text-3xl font-semibold mb-2">{{ page.name | default: page.title }}</h1>
-
+  <!-- Card -->
+  <div class="alumni-card">
+    
+    <!-- Avatar -->
+    {% assign avatar_url = page.image %}
+    <div class="alumni-avatar">
+      <img
+        src="{{ avatar_url | default: 'https://ui-avatars.com/api/?name=' | append: page.name | url_encode | append: '&size=120&background=E2E8F0&color=4A5568&rounded=true' }}"
+        alt="{{ page.name | default: 'Profile Photo' }}"
+        onerror="this.onerror=null;this.src='https://ui-avatars.com/api/?name={{ page.name | url_encode }}&size=120&background=E2E8F0&color=4A5568&rounded=true';"
+        loading="eager"
+      />
     </div>
 
-    {% assign has_meta = page.batch_year or page.role or page.organization %}
-    {% if has_meta %}
-      <div class="alumni-meta text-sm opacity-80 space-y-1">
-        {% if page.batch_year %}
-          <p><strong>Batch:</strong> {{ page.batch_year }}</p>
-        {% endif %}
-        {% if page.role %}
-          <p><strong>Role:</strong> {{ page.role }}</p>
-        {% endif %}
-        {% if page.organization %}
-          <p><strong>Organization:</strong> {{ page.organization }}</p>
-        {% endif %}
-      </div>
-    {% endif %}
-  </header>
+    <!-- Name -->
+    <h2 class="alumni-name">{{ page.name | default: page.title }}</h2>
 
-  {% if page.image %}
-    <!-- <div class="mb-5">
-      <img src="{{ page.image | relative_url }}" alt="{{ page.name | default: 'Profile Photo' }}" class="max-w-[180px] rounded-md shadow-sm" />
-    </div> -->
-  {% else %}
-    <div class="mb-5">
-      <div class="w-[120px] h-[120px] rounded-md bg-gray-200 flex items-center justify-center text-gray-500 text-sm">
-        No Image
-      </div>
+    <!-- Meta -->
+    <div class="alumni-meta">
+      {% if page.batch_year %}<p><strong>Batch:</strong> {{ page.batch_year }}</p>{% endif %}
+      {% if page.role %}<p><strong>Role:</strong> {{ page.role }}</p>{% endif %}
+      {% if page.organization %}<p><strong>Organization:</strong> {{ page.organization }}</p>{% endif %}
     </div>
-  {% endif %}
 
-  <div class="alumni-bio text-base leading-relaxed">
-    <br /> 
+  </div>
+
+  <!-- Bio / Description -->
+  <div class="alumni-bio">
     {{ content }}
   </div>
+
 </article>
+
+<style>
+/* ---------------- ALUMNI CARD (BLENDED) ---------------- */
+.alumni-card {
+  max-width: 360px;
+  margin: 2rem auto 1.5rem;
+  padding: 1.5rem 1rem;
+  text-align: center;
+}
+
+/* Avatar */
+.alumni-avatar {
+  width: 130px;
+  height: 130px;
+  margin: 0 auto 1rem;
+  border-radius: 50%;
+  overflow: hidden;
+  border: 2px solid #e2e8f0; /* subtle emphasis */
+}
+
+.alumni-avatar img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+/* Name */
+.alumni-name {
+  font-size: 1.45rem;
+  font-weight: 600;
+  margin-bottom: 0.3rem;
+  color: var(--text-primary, #222);
+}
+
+/* Meta */
+.alumni-meta {
+  font-size: 0.88rem;
+  color: var(--text-secondary, #555);
+}
+
+.alumni-meta p {
+  margin: 0.2rem 0;
+}
+
+/* Bio / Description */
+.alumni-bio {
+  max-width: 700px;
+  margin: 0 auto 3rem;
+  font-size: 1rem;
+  line-height: 1.55;
+  text-align: left;
+  color: var(--text-body, #333);
+  padding: 0 0.5rem;
+  word-break: break-word;
+}
+
+/* ---------------- DARK MODE ---------------- */
+html:not([data-mode="light"]) .alumni-name {
+  color: #f0f0f0;
+}
+
+html:not([data-mode="light"]) .alumni-meta {
+  color: #ccc;
+}
+
+html:not([data-mode="light"]) .alumni-bio {
+  color: #ddd;
+}
+
+/* ---------------- LIGHT MODE ---------------- */
+html[data-mode="light"] .alumni-name {
+  color: #222;
+}
+
+html[data-mode="light"] .alumni-meta {
+  color: #555;
+}
+
+html[data-mode="light"] .alumni-bio {
+  color: #333;
+}
+</style>
