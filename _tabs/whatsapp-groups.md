@@ -26,12 +26,12 @@ To add or update a group, email **cs.reps@ashoka.edu.in**.
 ---
 
 ### Data Science and Management  
-**Join:** [Join Group](https://chat.whatsapp.com/JC91mmsR0Md6gGJaPZh65a)  
+**Join:** [Join Group](https://chat.whatsapp.com/JC91mmsR0Md6gGJaPZh65a)    
 
 ---
 
 ### Introduction to Computer Science  
-**Join:** _Group not yet added_  
+**Join:** [Join Group](https://chat.whatsapp.com/C9BwHrbddBQA4dJnMeBjii)
 
 ---
 
