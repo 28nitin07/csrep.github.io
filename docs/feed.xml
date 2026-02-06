@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>CS@Ashoka</title>
   <subtitle>CS@Ashoka, maintained by the Department Representatives, is your go-to resource for all things Computer Science at Ashoka University. Explore course materials, project showcases, internship opportunities, and more, all curated to enhance your academic journey.</subtitle>
-  <updated>2026-02-07T04:52:28+05:30</updated>
+  <updated>2026-02-07T05:22:56+05:30</updated>
   <author>
     <name>CS Department Representatives</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,34 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>MobileHCI Conference Participation in Sharm-El-Sheikh, Egypt</title>
+    <link href="http://localhost:4000/posts/vansh-bothra-conference/" rel="alternate" type="text/html" title="MobileHCI Conference Participation in Sharm-El-Sheikh, Egypt" />
+    <published>2025-11-10T12:00:00+05:30</published>
+  
+    <updated>2025-11-10T12:00:00+05:30</updated>
+  
+    <id>http://localhost:4000/posts/vansh-bothra-conference/</id>
+    <content type="text/html" src="http://localhost:4000/posts/vansh-bothra-conference/" />
+    <author>
+      <name>CS Department Representatives</name>
+    </author>
+
+  
+    
+    <category term="Research" />
+    
+    <category term="Conferences" />
+    
+    <category term="Human-Computer Interaction" />
+    
+  
+
+  <summary>Highlighting Vansh Bothra’s participation at the MobileHCI Conference in Egypt, presenting research on inclusive e-commerce design and digital accessibility.</summary>
+
+  </entry>
 
   
   <entry>
