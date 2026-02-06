@@ -1,7 +1,6 @@
 ---
 title: Roshni Agarwal Wins ESET Women in Cybersecurity Scholarship
 description: Celebrating Roshni Agarwal's achievement in receiving the prestigious ESET Women in Cybersecurity Scholarship for her exceptional work and potential in cybersecurity.
-author: Techmin
 date: 2025-11-10 12:00:00 +0530
 categories: [Achievements, Cybersecurity]
 tags: [cybersecurity, scholarship, women-in-tech, recognition]
@@ -9,8 +8,7 @@ pin: true
 math: false
 mermaid: false
 image:
-  path: https://www.ashoka.edu.in/wp-content/uploads/2025/09/Feature-Image-32-1.jpg
-  lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
+  path: /photos/roshni.webp
   alt: Roshni Agarwal Wins ESET.
 
 ---
