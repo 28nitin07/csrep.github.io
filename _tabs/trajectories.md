@@ -9,65 +9,807 @@ permalink: /trajectories/
 <br />
 **NOTE: Following page lists down sample trajectories. Please be sure to look at one for your batch ONLY. Cross check this with the department handbook and NEP document for your batch.
 
-## <u> UG2023, UG25</u>
 
 
-#### Example Path for 4-Year BSc Hons
+<details>
 
-| Semester 1 (M) | Semester 2 (S)     | Semester 3 (M)           | Semester 4 (S)                  | Semester 5 (M)           | Semester 6 (S)                      | Semester 7 (M)   | Semester 8 (S) |
-| -------------- | ------------------ | ------------------------ | ------------------------------- | ------------------------ | ----------------------------------- | ---------------- | -------------- |
-| Calculus       | Introduction to CS | Probability & Statistics | Design & Analysis of Algorithms | Design Practices in CS   | Theory of Computation               | Capstone Project | —              |
-|                | Discrete Math      | Linear Algebra           | Computer Organisation & Systems | Introduction to ML       | Data Science & Management           |                  |                |
-|                |                    | DSA                      | Computer Networks (2 cr)        | Operating Systems (2 cr) | Programming Languages & Translation |                  |                |
-|                |                    | Programming Lab (2 cr)   | Information Security (2 cr)     |                          |                                     |                  |                |
+<summary> <strong> <u> UG2024 onwards</u> </strong> </summary>
 
-#### Example Path for 4-Year BSc Hons with Research
+<br/>
+<h4>Example Path for 4-Year BSc Hons</h4>
 
-| Semester 1 (M) | Semester 2 (S)     | Semester 3 (M)           | Semester 4 (S)                  | Semester 5 (M)           | Semester 6 (S)                      | Semester 7 (M)         | Semester 8 (S)         |
-| -------------- | ------------------ | ------------------------ | ------------------------------- | ------------------------ | ----------------------------------- | ---------------------- | ---------------------- |
-| Calculus       | Introduction to CS | Probability & Statistics | Design & Analysis of Algorithms | Design Practices in CS   | Theory of Computation               | Capstone Thesis (4 cr) | Capstone Thesis (8 cr) |
-|                | Discrete Math      | Linear Algebra           | Computer Organisation & Systems | Introduction to ML       | Data Science & Management           |                        |                        |
-|                |                    | DSA                      | Computer Networks (2 cr)        | Operating Systems (2 cr) | Programming Languages & Translation |                        |                        |
-|                |                    | Programming Lab (2 cr)   | Information Security (2 cr)     |                          |                                     |                        |                        |
+<table>
+  <thead>
+    <tr>
+      <th>Semester 1 (M)</th>
+      <th>Semester 2 (S)</th>
+      <th>Semester 3 (M)</th>
+      <th>Semester 4 (S)</th>
+      <th>Semester 5 (M)</th>
+      <th>Semester 6 (S)</th>
+      <th>Semester 7 (M)</th>
+      <th>Semester 8 (S)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Calculus</td>
+      <td>Introduction to CS</td>
+      <td>Probability & Statistics</td>
+      <td>Design & Analysis of Algorithms</td>
+      <td>Design Practices in CS</td>
+      <td>Theory of Computation</td>
+      <td>Capstone Project</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Discrete Math</td>
+      <td>Linear Algebra</td>
+      <td>Computer Organisation & Systems</td>
+      <td>Introduction to ML</td>
+      <td>Data Science & Management</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>Data Structures and Algorithms</td>
+      <td>Computer Networks (2 cr)</td>
+      <td>Operating Systems (2 cr)</td>
+      <td>Programming Languages & Translation</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>Programming Lab (2cr)</td>
+      <td>Information Security (2 cr)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
-#### Example Path for 3-Year BSc
+Also add one primer, and 12 credits of electives. 
 
-| Semester 1 (M) | Semester 2 (S)     | Semester 3 (M)           | Semester 4 (S)                  | Semester 5 (M)           | Semester 6 (S)            |
-| -------------- | ------------------ | ------------------------ | ------------------------------- | ------------------------ | ------------------------- |
-| Calculus       | Introduction to CS | Probability & Statistics | Computer Organisation & Systems | Design Practices in CS   | Data Science & Management |
-|                | Discrete Math      | Linear Algebra           | Computer Networks (2 cr)        | Introduction to ML       |                           |
-|                |                    | DSA                      | Information Security (2 cr)     | Operating Systems (2 cr) |                           |
-|                |                    | Programming Lab (2 cr)   |                                 |                          |                           |
+<h4>Example Path for 4-Year BSc Hons with Research</h4>
+
+<table>
+  <thead>
+    <tr>
+      <th>Semester 1 (M)</th>
+      <th>Semester 2 (S)</th>
+      <th>Semester 3 (M)</th>
+      <th>Semester 4 (S)</th>
+      <th>Semester 5 (M)</th>
+      <th>Semester 6 (S)</th>
+      <th>Semester 7 (M)</th>
+      <th>Semester 8 (S)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Calculus</td>
+      <td>Introduction to CS</td>
+      <td>Probability & Statistics</td>
+      <td>Design & Analysis of Algorithms</td>
+      <td>Design Practices in CS</td>
+      <td>Theory of Computation</td>
+      <td>Capstone Project</td>
+      <td>Capstone Thesis (8 cr)</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Discrete Math</td>
+      <td>Linear Algebra</td>
+      <td>Computer Organisation & Systems</td>
+      <td>Introduction to ML</td>
+      <td>Data Science & Management</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>Data Structures and Algorithms</td>
+      <td>Computer Networks (2 cr)</td>
+      <td>Operating Systems (2 cr)</td>
+      <td>Programming Languages & Translation</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>Programming Lab (2 cr)</td>
+      <td>Information Security (2 cr)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+Also add one primer, and 16 credits of electives. 
+
+<h4>Example Path for 3-Year BSc</h4>
+
+<table>
+  <thead>
+    <tr>
+      <th>Semester 1 (M)</th>
+      <th>Semester 2 (S)</th>
+      <th>Semester 3 (M)</th>
+      <th>Semester 4 (S)</th>
+      <th>Semester 5 (M)</th>
+      <th>Semester 6 (S)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Calculus</td>
+      <td>Introduction to CS</td>
+      <td>Probability & Statistics</td>
+      <td>Computer Organisation & Systems</td>
+      <td>Design Practices in CS</td>
+      <td>Data Science & Management</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Discrete Math</td>
+      <td>Linear Algebra</td>
+      <td>Computer Networks (2 cr)</td>
+      <td>Introduction to ML</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>Data Structures and Algorithms</td>
+      <td>Information Security (2 cr)</td>
+      <td>Operating Systems (2 cr)</td>
+      <td></td>
+    </tr>
+        <tr>
+      <td></td>
+      <td></td>
+      <td>Programming Lab (2 cr)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+Also add one primer, and 8 credits of electives. 
+
+<h4>4-Year Program (CS + PHI)</h4>
+
+<table>
+  <thead>
+    <tr>
+      <th>Semester 1 (M)</th>
+      <th>Semester 2 (S)</th>
+      <th>Semester 3 (M)</th>
+      <th>Semester 4 (S)</th>
+      <th>Semester 5 (M)</th>
+      <th>Semester 6 (S)</th>
+      <th>Semester 7 (M)</th>
+      <th>Semester 8 (S)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Calculus</td>
+      <td>Introduction to Computer Science</td>
+      <td>Probability and Statistics</td>
+      <td>Computer Organization and Systems</td>
+      <td>Introduction to Machine Learning</td>
+      <td>Theory of Computation</td>
+      <td>Capstone Project</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Discrete Mathematics</td>
+      <td>Linear Algebra</td>
+      <td>Symbolic Logic</td>
+      <td>Operating Systems (2 cr)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Intro to Philosophy</td>
+      <td>Data Structures and Algorithms</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+        <td></td>
+      <td></td>
+      <td>Programming Lab (2 cr)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+If you'd like to do a 4 year degree with research, please add a Capstone Thesis (8 cr) in Sem 8. Also add one primer, and 8 credits of electives (12 credits if pursuing a with research degree). 
+
+<h4>4-Year CS MAT (Track 1: Cryptography, Number Theory, Algebra)</h4>
+
+<table>
+  <thead>
+    <tr>
+      <th>Semester 1 (M)</th>
+      <th>Semester 2 (S)</th>
+      <th>Semester 3 (M)</th>
+      <th>Semester 4 (S)</th>
+      <th>Semester 5 (M)</th>
+      <th>Semester 6 (S)</th>
+      <th>Semester 7 (M)</th>
+      <th>Semester 8 (S)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Calculus</td>
+      <td>Introduction to CS</td>
+      <td>Multivariable Calculus</td>
+      <td>Computer Organization and Systems</td>
+      <td>Cryptography</td>
+      <td>Theory of Computation</td>
+      <td>Capstone Project</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Discrete Math</td>
+      <td>Probability and Statistics</td>
+      <td>Design and Analysis of Algorithms</td>
+      <td>Algebra 1</td>
+      <td>Statistical Inference I</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Linear Algebra</td>
+      <td>Data Structures and Algorithms</td>
+      <td>Real Analysis</td>
+      <td>Operating Systems (2 cr)</td>
+      <td>Information Security (2 cr)</td>
+      <td></td>
+      <td></td>
+    </tr>
+        <tr>
+      <td></td>
+      <td></td>
+      <td>Programming Lab (2 cr)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+If you'd like to do a 4 year degree with research, please add a Capstone Thesis (8 cr) in Sem 8. Also add one primer, and 10 credits of electives (14 credits if pursuing a with research degree). 
+
+<h4>4-Year CS MAT (Track 2: Data Science & Machine Learning)</h4>
+
+<table>
+  <thead>
+    <tr>
+      <th>Semester 1 (M)</th>
+      <th>Semester 2 (S)</th>
+      <th>Semester 3 (M)</th>
+      <th>Semester 4 (S)</th>
+      <th>Semester 5 (M)</th>
+      <th>Semester 6 (S)</th>
+      <th>Semester 7 (M)</th>
+      <th>Semester 8 (S)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Calculus</td>
+      <td>Introduction to Computer Science</td>
+      <td>Multivariable Calculus</td>
+      <td>Computer Organization and Systems</td>
+      <td>Introduction to Machine Learning</td>
+      <td>Data Science and Management</td>
+      <td>Capstone Project</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Discrete Math</td>
+      <td>Probability and Statistics</td>
+      <td>Design and Analysis of Algorithms</td>
+      <td>Algebra 1</td>
+      <td>Statistical Inference I</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Linear Algebra</td>
+      <td>Data Structures and Algorithms</td>
+      <td>Real Analysis</td>
+      <td>Operating Systems (2 cr)</td>
+      <td>Information Security (2 cr)</td>
+      <td></td>
+      <td></td>
+    </tr>
+        <tr>
+      <td></td>
+      <td>Programming Lab (2 cr)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+If you'd like to do a 4 year degree with research, please add a Capstone Thesis (8 cr) in Sem 8. Also add one primer, and 10 credits of electives (14 credits if pursuing a with research degree). 
 
 
-#### 4-Year Program (CS + PHI)
+<h4>4-Year CS ENT </h4>
 
-| Semester 1 (M) | Semester 2 (S) | Semester 3 (M)  | Semester 4 (S)                                             | Semester 5 (M)                           | Semester 6 (S)                                             | Semester 7 (M)        | Semester 8 (S)        |
-| -------------- | -------------- | --------------- | ---------------------------------------------------------- | ---------------------------------------- | ---------------------------------------------------------- | --------------------- | --------------------- |
-| ICT            | ICS            | P&S             | COS                                                        | IML                                      | TOC                                                        | Any Elective (CS/PHI) | Any Elective (CS/PHI) |
-| FC             | DM             | Linear Algebra  | Symbolic Logic                                             | Any Elective (CS/PHI)                    | PHI Elective (Phil. of Mind recommended)                   | Any Elective (CS/PHI) | Any Elective (CS/PHI) |
-| FC             | Intro to Phil  | DSA             | PHI Course (Ethics / Phil. of Science / Phil. of Language) | PHI Elective (Phil. of Mind recommended) | PHI Course (Ethics / Phil. of Science / Phil. of Language) | Any Elective (CS/PHI) | Any Elective (CS/PHI) |
-| Calculus       |                | Programming Lab |                                                            | OS                                       | Any Elective (CS/PHI)                                      |                       |                       |
-| FC             |                |                 |                                                            |                                          |                                                            |                       |                       |
+<table>
+  <thead>
+    <tr>
+      <th>Semester 1 (M)</th>
+      <th>Semester 2 (S)</th>
+      <th>Semester 3 (M)</th>
+      <th>Semester 4 (S)</th>
+      <th>Semester 5 (M)</th>
+      <th>Semester 6 (S)</th>
+      <th>Semester 7 (M)</th>
+      <th>Semester 8 (S)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Calculus</td>
+      <td>Introduction to Computer Science</td>
+      <td>Linear Algebra</td>
+      <td>Computer Organization and Systems</td>
+      <td>Introduction to Machine Learning</td>
+      <td></td>
+      <td>Capstone Project</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Discrete Math</td>
+      <td>Probability and Statistics</td>
+      <td>Information Security (2 cr)</td>
+      <td>Design Practices in CS</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>Data Structures and Algorithms</td>
+      <td>Computer Networks (2 cr)</td>
+      <td>Operating Systems (2 cr)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+        <tr>
+      <td></td>
+      <td></td>
+      <td>Programming Lab (2 cr)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
-#### 4-Year CS MAT (Track 1: Cryptography, Number Theory, Algebra)
+If you'd like to do a 4 year degree with research, please add a Capstone Thesis (8 cr) in Sem 8. Also add one primer, and 12 credits of electives (16 credits if pursuing a with research degree). 
 
-| Semester 1 (M)      | Semester 2 (S)      | Semester 3 (M)      | Semester 4 (S)      | Semester 5 (M)      | Semester 6 (S)        | Semester 7 (M)        | Semester 8 (S)        |
-| ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | --------------------- | --------------------- | --------------------- |
-| Calculus            | Foundation Course 4 | Linear Algebra      | Foundation Course 7 | Foundation Course 8 | Theory of Computation | RA                    | Any Elective (CS/MAT) |
-| Foundation Course 1 | Foundation Course 5 | P&S                 | COS                 | Cryptography        | MVC                   | Any Elective (CS/MAT) | Any Elective (CS/MAT) |
-| Foundation Course 2 | Introduction to CS  | DSA                 | DAA                 | OS                  | Any Elective (CS/MAT) | Any Elective (CS/MAT) | Any Elective (CS/MAT) |
-| Foundation Course 3 | Discrete Math       | Programming Lab     | Number Theory       | Algebra 1           | Any Elective (CS/MAT) | Any Elective (CS/MAT) | Any Elective (CS/MAT) |
-|                     |                     | Foundation Course 6 |                     |                     |                       |                       |                       |
 
-#### 4-Year CS MAT (Track 2: Data Science & Machine Learning)
+</details>
 
-| Semester 1 (M)      | Semester 2 (S)      | Semester 3 (M)      | Semester 4 (S)      | Semester 5 (M)      | Semester 6 (S)        | Semester 7 (M)        | Semester 8 (S)        |
-| ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | --------------------- | --------------------- | --------------------- |
-| Calculus            | Foundation Course 4 | Linear Algebra      | Foundation Course 7 | Foundation Course 8 | DSM                   | SI                    | Any Elective (CS/MAT) |
-| Foundation Course 1 | Foundation Course 5 | P&S                 | COS                 | Introduction to ML  | MVC                   | Any Elective (CS/MAT) | Any Elective (CS/MAT) |
-| Foundation Course 2 | Introduction to CS  | DSA                 | DAA                 | OS                  | RA                    | Any Elective (CS/MAT) | Any Elective (CS/MAT) |
-| Foundation Course 3 | Discrete Math       | Programming Lab     | Number Theory       | Algebra 1           | Any Elective (CS/MAT) | Any Elective (CS/MAT) | Any Elective (CS/MAT) |
-|                     |                     | Foundation Course 6 |                     |                     |                       |                       |                       |
+<details>
 
+<summary> <strong> <u> UG2023, UG25</u> </strong> </summary>
+
+<br/>
+<h4>Example Path for 4-Year BSc Hons</h4>
+
+<table>
+  <thead>
+    <tr>
+      <th>Semester 1 (M)</th>
+      <th>Semester 2 (S)</th>
+      <th>Semester 3 (M)</th>
+      <th>Semester 4 (S)</th>
+      <th>Semester 5 (M)</th>
+      <th>Semester 6 (S)</th>
+      <th>Semester 7 (M)</th>
+      <th>Semester 8 (S)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Calculus</td>
+      <td>Introduction to CS</td>
+      <td>Probability & Statistics</td>
+      <td>Design & Analysis of Algorithms</td>
+      <td>Design Practices in CS</td>
+      <td>Theory of Computation</td>
+      <td>Capstone Project</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Discrete Math</td>
+      <td>Linear Algebra</td>
+      <td>Computer Organisation & Systems</td>
+      <td>Introduction to ML</td>
+      <td>Data Science & Management</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>DSA</td>
+      <td>Computer Networks (2 cr)</td>
+      <td></td>
+      <td>Programming Languages & Translation</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>Information Security (2 cr)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+Also add Biology Primer, Physics Primer (or, for UG2023: one primer, programming lab (2 cr), operating systems (2 cr)), and 12 credits of electives. 
+
+<h4>Example Path for 4-Year BSc Hons with Research</h4>
+
+<table>
+  <thead>
+    <tr>
+      <th>Semester 1 (M)</th>
+      <th>Semester 2 (S)</th>
+      <th>Semester 3 (M)</th>
+      <th>Semester 4 (S)</th>
+      <th>Semester 5 (M)</th>
+      <th>Semester 6 (S)</th>
+      <th>Semester 7 (M)</th>
+      <th>Semester 8 (S)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Calculus</td>
+      <td>Introduction to CS</td>
+      <td>Probability & Statistics</td>
+      <td>Design & Analysis of Algorithms</td>
+      <td>Design Practices in CS</td>
+      <td>Theory of Computation</td>
+      <td>Capstone Project</td>
+      <td>Capstone Thesis (8 cr)</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Discrete Math</td>
+      <td>Linear Algebra</td>
+      <td>Computer Organisation & Systems</td>
+      <td>Introduction to ML</td>
+      <td>Data Science & Management</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>DSA</td>
+      <td>Computer Networks (2 cr)</td>
+      <td></td>
+      <td>Programming Languages & Translation</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>Information Security (2 cr)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+Also add Biology Primer, Physics Primer (or, for UG2023: one primer, programming lab (2 cr), operating systems (2 cr)), and 16 credits of electives. 
+
+<h4>Example Path for 3-Year BSc</h4>
+
+<table>
+  <thead>
+    <tr>
+      <th>Semester 1 (M)</th>
+      <th>Semester 2 (S)</th>
+      <th>Semester 3 (M)</th>
+      <th>Semester 4 (S)</th>
+      <th>Semester 5 (M)</th>
+      <th>Semester 6 (S)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Calculus</td>
+      <td>Introduction to CS</td>
+      <td>Probability & Statistics</td>
+      <td>Computer Organisation & Systems</td>
+      <td>Design Practices in CS</td>
+      <td>Data Science & Management</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Discrete Math</td>
+      <td>Linear Algebra</td>
+      <td>Computer Networks (2 cr)</td>
+      <td>Introduction to ML</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>DSA</td>
+      <td>Information Security (2 cr)</td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+Also add Biology Primer, Physics Primer (or, for UG2023: one primer, programming lab (2 cr), operating systems (2 cr)), and 8 credits of electives. 
+
+<h4>4-Year Program (CS + PHI)</h4>
+
+<table>
+  <thead>
+    <tr>
+      <th>Semester 1 (M)</th>
+      <th>Semester 2 (S)</th>
+      <th>Semester 3 (M)</th>
+      <th>Semester 4 (S)</th>
+      <th>Semester 5 (M)</th>
+      <th>Semester 6 (S)</th>
+      <th>Semester 7 (M)</th>
+      <th>Semester 8 (S)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Calculus</td>
+      <td>Introduction to Computer Science</td>
+      <td>Probability and Statistics</td>
+      <td>Computer Organization and Systems</td>
+      <td>Introduction to Machine Learning</td>
+      <td>Theory of Computation</td>
+      <td>Capstone Project</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Discrete Mathematics</td>
+      <td>Linear Algebra</td>
+      <td>Symbolic Logic</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Intro to Philosophy</td>
+      <td>Data Structures and Algorithms</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+If you'd like to do a 4 year degree with research, please add a Capstone Thesis (8 cr) in Sem 8. Also add Biology Primer, Physics Primer (or, for UG2023: one primer, programming lab (2 cr), operating systems (2 cr)), and 8 credits of electives (12 credits if pursuing a with research degree). 
+
+<h4>4-Year CS MAT (Track 1: Cryptography, Number Theory, Algebra)</h4>
+
+<table>
+  <thead>
+    <tr>
+      <th>Semester 1 (M)</th>
+      <th>Semester 2 (S)</th>
+      <th>Semester 3 (M)</th>
+      <th>Semester 4 (S)</th>
+      <th>Semester 5 (M)</th>
+      <th>Semester 6 (S)</th>
+      <th>Semester 7 (M)</th>
+      <th>Semester 8 (S)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Calculus</td>
+      <td>Introduction to CS</td>
+      <td>Multivariable Calculus</td>
+      <td>Computer Organization and Systems</td>
+      <td>Cryptography</td>
+      <td>Theory of Computation</td>
+      <td>Capstone Project</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Discrete Math</td>
+      <td>Probability and Statistics</td>
+      <td>Design and Analysis of Algorithms</td>
+      <td>Algebra 1</td>
+      <td>Statistical Inference I</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Linear Algebra</td>
+      <td>Data Structures and Algorithms</td>
+      <td>Real Analysis</td>
+      <td></td>
+      <td>Information Security (2 cr)</td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+If you'd like to do a 4 year degree with research, please add a Capstone Thesis (8 cr) in Sem 8. Also add Biology Primer, Physics Primer (or, for UG2023: one primer, programming lab (2 cr), operating systems (2 cr)), and 10 credits of electives (14 credits if pursuing a with research degree). 
+
+<h4>4-Year CS MAT (Track 2: Data Science & Machine Learning)</h4>
+
+<table>
+  <thead>
+    <tr>
+      <th>Semester 1 (M)</th>
+      <th>Semester 2 (S)</th>
+      <th>Semester 3 (M)</th>
+      <th>Semester 4 (S)</th>
+      <th>Semester 5 (M)</th>
+      <th>Semester 6 (S)</th>
+      <th>Semester 7 (M)</th>
+      <th>Semester 8 (S)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Calculus</td>
+      <td>Introduction to Computer Science</td>
+      <td>Multivariable Calculus</td>
+      <td>Computer Organization and Systems</td>
+      <td>Introduction to Machine Learning</td>
+      <td>Data Science and Management</td>
+      <td>Capstone Project</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Discrete Math</td>
+      <td>Probability and Statistics</td>
+      <td>Design and Analysis of Algorithms</td>
+      <td>Algebra 1</td>
+      <td>Statistical Inference I</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Linear Algebra</td>
+      <td>Data Structures and Algorithms</td>
+      <td>Real Analysis</td>
+      <td></td>
+      <td>Information Security (2 cr)</td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+If you'd like to do a 4 year degree with research, please add a Capstone Thesis (8 cr) in Sem 8. Also add Biology Primer, Physics Primer (or, for UG2023: one primer, programming lab (2 cr), operating systems (2 cr)), and 10 credits of electives (14 credits if pursuing a with research degree). 
+
+
+<h4>4-Year CS ENT </h4>
+
+<table>
+  <thead>
+    <tr>
+      <th>Semester 1 (M)</th>
+      <th>Semester 2 (S)</th>
+      <th>Semester 3 (M)</th>
+      <th>Semester 4 (S)</th>
+      <th>Semester 5 (M)</th>
+      <th>Semester 6 (S)</th>
+      <th>Semester 7 (M)</th>
+      <th>Semester 8 (S)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Calculus</td>
+      <td>Introduction to Computer Science</td>
+      <td>Linear Algebra</td>
+      <td>Computer Organization and Systems</td>
+      <td>Introduction to Machine Learning</td>
+      <td></td>
+      <td>Capstone Project</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Discrete Math</td>
+      <td>Probability and Statistics</td>
+      <td>Information Security (2 cr)</td>
+      <td>Design Practices in CS</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>Data Structures and Algorithms</td>
+      <td>Computer Networks (2 cr)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+If you'd like to do a 4 year degree with research, please add a Capstone Thesis (8 cr) in Sem 8. Also add any 16 credits of ENT courses, Biology Primer, Physics Primer (or, for UG2023: one primer, programming lab (2 cr), operating systems (2 cr)), and 12 credits of electives (16 credits if pursuing a with research degree). 
+
+</details>
 
