@@ -4,7 +4,7 @@
   <id>https://csrep.github.io/</id>
   <title>CS@Ashoka</title>
   <subtitle>CS@Ashoka, maintained by the Department Representatives, is your go-to resource for all things Computer Science at Ashoka University. Explore course materials, project showcases, internship opportunities, and more, all curated to enhance your academic journey.</subtitle>
-  <updated>2026-02-07T05:38:59+05:30</updated>
+  <updated>2026-02-07T15:44:49+05:30</updated>
   <author>
     <name>CS Department Representatives</name>
     <uri>https://csrep.github.io/</uri>
@@ -43,6 +43,38 @@
   
 
   <summary>Highlighting research presented at the MobileHCI Conference in Egypt on inclusive e-commerce design and digital accessibility.</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Vaani Goenka’s Research on Program Verification Accepted at ACM COMPUTE</title>
+    <link href="https://csrep.github.io/posts/vaani-goenka-conference/" rel="alternate" type="text/html" title="Vaani Goenka’s Research on Program Verification Accepted at ACM COMPUTE" />
+    <published>2026-02-06T12:00:00+05:30</published>
+  
+    <updated>2026-02-06T12:00:00+05:30</updated>
+  
+    <id>https://csrep.github.io/posts/vaani-goenka-conference/</id>
+    <content type="text/html" src="https://csrep.github.io/posts/vaani-goenka-conference/" />
+    <author>
+      <name>CS Department Representatives</name>
+    </author>
+
+  
+    
+    <category term="Achievements" />
+    
+    <category term="Research" />
+    
+    <category term="Computer Science" />
+    
+    <category term="Women in STEM" />
+    
+    <category term="Education" />
+    
+  
+
+  <summary>Highlighting Vaani Goenka’s research on automated verification and program correctness, her acceptance at ACM COMPUTE, and her recognition through the RSR Grant for Women in STEM.</summary>
 
   </entry>
 

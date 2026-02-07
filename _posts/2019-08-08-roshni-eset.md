@@ -4,7 +4,7 @@ description: Celebrating Roshni Agarwal's achievement in receiving the prestigio
 date: 2025-11-10 12:00:00 +0530
 categories: [Achievements, Cybersecurity]
 tags: [cybersecurity, scholarship, women-in-tech, recognition]
-pin: true
+# pin: true
 math: false
 mermaid: false
 image:
