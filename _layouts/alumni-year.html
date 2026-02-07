@@ -20,14 +20,39 @@ layout: default
 </header>
 
     <p>NOTE: This list is maintained by the CS Department Representatives on a voluntary basis. It may not be complete. CS graduates can email cs.reps[at]ashoka.edu.in to add or update their profile.</p>
+    
 
   {% assign this_batch = site.alumni | where: "batch_year", page.batch_year | sort: "title" %}
   {% if this_batch and this_batch.size > 0 %}
     {% assign grouped = this_batch | group_by_exp: "person", "person.title | slice: 0, 1 | upcase" %}
 
+
+    <!-- A–Z Jump Bar -->
+    <div class="alphabet-nav">
+
+      {% assign letters = "" | split: "" %}
+
+      {% for person in this_batch %}
+
+        {% assign first = person.title | slice: 0,1 | upcase %}
+
+        {% unless letters contains first %}
+          {% assign letters = letters | push: first %}
+        {% endunless %}
+
+      {% endfor %}
+
+      {% assign letters = letters | sort %}
+
+      {% for l in letters %}
+        <a href="#letter-{{ l }}">{{ l }}</a>
+      {% endfor %}
+
+    </div>
+
     <div class="alumni-grid">
       {% for group in grouped %}
-        <section class="alumni-group">
+        <section class="alumni-group" id="letter-{{ group.name }}">
           <h2 class="alumni-letter">{{ group.name }}</h2>
           <ul class="alumni-list">
             {% for person in group.items %}

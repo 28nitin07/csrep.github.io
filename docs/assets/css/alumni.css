@@ -1,14 +1,12 @@
-.alumni-year {
-  margin: 0 auto;
-  padding: 0 1rem;
-  line-height: 1.6;
-}
+/* ==================================================
+   GLOBAL
+================================================== */
 
-.back-link {
-  display: inline-block;
-  margin-bottom: 1rem;
-  text-decoration: none;
-  font-size: 0.95rem;
+.alumni-year {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 1rem 2rem 1rem;
+  line-height: 1.6;
 }
 
 .alumni-header {
@@ -16,60 +14,17 @@
   margin-bottom: 2rem;
 }
 
-.alumni-header h1 {
-  margin-bottom: 0.25rem;
-}
-
-.alumni-list {
-  list-style: none;
-  padding: 0;
-  margin: 0 0 2rem 0;
-}
-
-.alumni-item {
-  margin: 0.5rem 0;
-}
-
-.alumni-item a {
-  font-weight: 500;
-  text-decoration: none;
-}
-
-.alumni-position {
-  display: block;
-  font-size: 0.9rem;
-  opacity: 0.8;
-}
-
-.nav-buttons {
-  display: flex;
-  justify-content: space-between;
-  margin-top: 2rem;
-}
-
-.nav-button {
-  text-decoration: none;
-  font-size: 0.95rem;
-}
 
 
-
-/* 
- */
-
-
+/* ==================================================
+   ALUMNI INDEX (BATCH SELECT PAGE)
+================================================== */
 
 .alumni-index {
   max-width: 1000px;
   margin: 2em auto;
   text-align: center;
   padding: 0 1em;
-}
-
-.alumni-title {
-  font-size: 2em;
-  margin-bottom: 0.2em;
-  font-weight: 600;
 }
 
 .alumni-subtitle {
@@ -109,43 +64,39 @@
   font-weight: 500;
 }
 
-.batch-subtext {
-  font-size: 0.9em;
-  opacity: 0.7;
-  margin-top: 0.4em;
+
+
+/* ==================================================
+   ALUMNI LIST (A–Z DIRECTORY) — SINGLE COLUMN
+================================================== */
+
+.alumni-grid {
+  display: block;
 }
 
 
-/* Alumni
- */
 
- .alumni-year {
-  max-width: 900px;
-  margin: 0 auto;
-  padding: 0rem 1rem 2rem 1rem;
-}
+/* Group (Each Letter Section) */
 
-.alumni-header {
-  text-align: center;
+.alumni-group {
   margin-bottom: 2rem;
 }
 
-.alumni-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 2rem;
-}
 
-.alumni-group {
-  border-left: 2px solid var(--border-color, #ddd);
-  padding-left: 1rem;
-}
+
+/* Letter Heading */
 
 .alumni-letter {
-  font-size: 1.5rem;
+  font-size: 1.6rem;
   font-weight: 700;
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.6rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 2px solid rgba(255,255,255,0.2);
 }
+
+
+
+/* Name List */
 
 .alumni-list {
   list-style: none;
@@ -153,24 +104,49 @@
   margin: 0;
 }
 
+
+
+/* Each Row */
+
 .alumni-item {
-  margin-bottom: 0.4rem;
+  margin-bottom: 0.2rem;
+  padding: 0.35rem 0;
+  transition: background 0.15s ease;
 }
+
+.alumni-item:hover {
+  background: rgba(255,255,255,0.03);
+}
+
+
+
+/* Links */
 
 .alumni-item a {
   font-weight: 500;
   text-decoration: none;
+  transition: color 0.2s ease;
 }
 
 .alumni-item a:hover {
   text-decoration: underline;
 }
 
+
+
+/* Position / Subtitle */
+
 .alumni-position {
   display: block;
   font-size: 0.9rem;
   opacity: 0.8;
 }
+
+
+
+/* ==================================================
+   NAVIGATION
+================================================== */
 
 .alumni-nav {
   margin-top: 3rem;
@@ -181,13 +157,61 @@
   display: flex;
   justify-content: center;
   gap: 1.5rem;
+  flex-wrap: wrap;
 }
 
 .nav-button {
   text-decoration: none;
   font-weight: 600;
+  font-size: 0.95rem;
 }
 
 .nav-button:hover {
   text-decoration: underline;
+}
+
+
+
+/* ==================================================
+   RESPONSIVE (MOBILE / TABLET)
+================================================== */
+
+@media (max-width: 900px) {
+
+  .alumni-year {
+    padding: 0 0.8rem 2rem 0.8rem;
+  }
+
+  .alumni-letter {
+    font-size: 1.4rem;
+  }
+
+}
+
+/* Alphabet Jump Bar */
+
+.alphabet-nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.6rem;
+  margin: 1.5rem 0 2rem;
+  padding: 0.5rem 0;
+  /* position: sticky;
+  top: 0;
+  background: var(--bg-color, inherit);
+  z-index: 10; */
+}
+
+.alphabet-nav a {
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.9rem;
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
+  transition: all 0.2s ease;
+}
+
+.alphabet-nav a:hover {
+  background: rgba(127,179,255,0.15);
 }
