@@ -1,7 +1,7 @@
 ---
 title: MobileHCI Conference Participation in Sharm-El-Sheikh, Egypt
 description: Highlighting Vansh Bothra’s participation at the MobileHCI Conference in Egypt, presenting research on inclusive e-commerce design and digital accessibility.
-date: 2025-11-10 12:00:00 +0530
+date: 2026-02-6 12:00:00 +0530
 categories: [Research, Conferences, Human-Computer Interaction]
 tags: [HCI, mobilehci, accessibility, e-commerce, research, conference, inclusive-design]
 pin: false
@@ -14,7 +14,9 @@ image:
 
 # MobileHCI Conference Participation in Sharm-El-Sheikh
 
-Vansh Bothra, a final-year Computer Science and Entrepreneurship student, recently attended the MobileHCI conference in Sharm-El-Sheikh, Egypt, to present research on inclusive e-commerce design. Held at the Park Regency Resort, the conference served as a professional forum for scholars and practitioners in the field of Human-Computer Interaction (HCI). This participation provided a platform to engage with the international research community and share findings on digital accessibility.
+<a href="https://www.linkedin.com/in/vansh-bothra-b714bb263/" target="_blank" rel="noopener noreferrer">
+  Vansh Bothra
+</a>, a final-year Computer Science and Entrepreneurship student, recently attended the MobileHCI conference in Sharm-El-Sheikh, Egypt, to present research on inclusive e-commerce design. Held at the Park Regency Resort, the conference served as a professional forum for scholars and practitioners in the field of Human-Computer Interaction (HCI). This participation provided a platform to engage with the international research community and share findings on digital accessibility.
 
 ## The Research: Designing for Emergent Users
 

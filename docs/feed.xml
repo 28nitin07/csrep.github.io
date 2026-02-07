@@ -1,17 +1,17 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>https://csrep.github.io/</id>
+  <id>http://localhost:4000/</id>
   <title>CS@Ashoka</title>
   <subtitle>CS@Ashoka, maintained by the Department Representatives, is your go-to resource for all things Computer Science at Ashoka University. Explore course materials, project showcases, internship opportunities, and more, all curated to enhance your academic journey.</subtitle>
-  <updated>2026-02-07T05:23:40+05:30</updated>
+  <updated>2026-02-07T05:31:07+05:30</updated>
   <author>
     <name>CS Department Representatives</name>
-    <uri>https://csrep.github.io/</uri>
+    <uri>http://localhost:4000/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="https://csrep.github.io/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
-    href="https://csrep.github.io/"/>
+    href="http://localhost:4000/"/>
   <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
   <rights> © 2026 CS Department Representatives </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
@@ -21,13 +21,13 @@
   
   <entry>
     <title>MobileHCI Conference Participation in Sharm-El-Sheikh, Egypt</title>
-    <link href="https://csrep.github.io/posts/vansh-bothra-conference/" rel="alternate" type="text/html" title="MobileHCI Conference Participation in Sharm-El-Sheikh, Egypt" />
-    <published>2025-11-10T12:00:00+05:30</published>
+    <link href="http://localhost:4000/posts/vansh-bothra-conference/" rel="alternate" type="text/html" title="MobileHCI Conference Participation in Sharm-El-Sheikh, Egypt" />
+    <published>2026-02-06T12:00:00+05:30</published>
   
-    <updated>2025-11-10T12:00:00+05:30</updated>
+    <updated>2026-02-06T12:00:00+05:30</updated>
   
-    <id>https://csrep.github.io/posts/vansh-bothra-conference/</id>
-    <content type="text/html" src="https://csrep.github.io/posts/vansh-bothra-conference/" />
+    <id>http://localhost:4000/posts/vansh-bothra-conference/</id>
+    <content type="text/html" src="http://localhost:4000/posts/vansh-bothra-conference/" />
     <author>
       <name>CS Department Representatives</name>
     </author>
@@ -49,13 +49,13 @@
   
   <entry>
     <title>Roshni Agarwal Wins ESET Women in Cybersecurity Scholarship</title>
-    <link href="https://csrep.github.io/posts/roshni-eset/" rel="alternate" type="text/html" title="Roshni Agarwal Wins ESET Women in Cybersecurity Scholarship" />
+    <link href="http://localhost:4000/posts/roshni-eset/" rel="alternate" type="text/html" title="Roshni Agarwal Wins ESET Women in Cybersecurity Scholarship" />
     <published>2025-11-10T12:00:00+05:30</published>
   
     <updated>2025-11-10T12:00:00+05:30</updated>
   
-    <id>https://csrep.github.io/posts/roshni-eset/</id>
-    <content type="text/html" src="https://csrep.github.io/posts/roshni-eset/" />
+    <id>http://localhost:4000/posts/roshni-eset/</id>
+    <content type="text/html" src="http://localhost:4000/posts/roshni-eset/" />
     <author>
       <name>CS Department Representatives</name>
     </author>
