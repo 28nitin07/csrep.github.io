@@ -1,6 +1,6 @@
 ---
 layout: alumni-profile
-title: "B.Sc (Hons) Computer Science & Entrepreneurship Student"
+title: "Aryan Verma"
 name: "Aryan Verma"
 batch_year: "2022-2026"
 major: "Computer Science and Entrepreneurship (Minor in Economics)"

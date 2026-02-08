@@ -1,6 +1,6 @@
 ---
 layout: alumni-profile
-title: "Computer Science & Entrepreneurship Graduate"
+title: "Kabeer Sekhri
 name: "Kabeer Sekhri"
 batch_year: "2022-2026"
 major: "B.Sc. (Hons) in Computer Science and Entrepreneurship"

@@ -1,6 +1,6 @@
 ---
 layout: alumni-profile
-title: "B.Sc. (Hons) Computer Science Student at Ashoka University"
+title: "Anurav Singh"
 name: "Anurav Singh"
 batch_year: "2022-2026"
 major: "Computer Science (Minor in Economics)"

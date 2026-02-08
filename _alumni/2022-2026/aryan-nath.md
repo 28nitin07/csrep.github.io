@@ -1,6 +1,6 @@
 ---
 layout: alumni-profile
-title: "Computer Science Undergraduate and Researcher"
+title: "Aryan Nath"
 name: "Aryan Nath"
 batch_year: "2022-2026"
 major: "B.Sc. (Honours) Computer Science; Minor in Mathematics"

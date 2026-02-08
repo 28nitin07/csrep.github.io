@@ -1,6 +1,6 @@
 ---
 layout: alumni-profile
-title: "Computer Science & Entrepreneurial Leadership Graduate"
+title: "Avik Mital"
 name: "Avik Mital"
 batch_year: "2022-2026"
 major: "Computer Science & Entrepreneurial Leadership"
