@@ -33,8 +33,3 @@ Strong in:
 - Building and evaluating ML models  
 - SQL for data access  
 - Basic cloud tools for data storage  
-
----
-
-## Exam Details  
-- **Format:**
