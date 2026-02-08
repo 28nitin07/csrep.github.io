@@ -4,7 +4,7 @@
   <id>https://csrep.github.io/</id>
   <title>CS@Ashoka</title>
   <subtitle>CS@Ashoka, maintained by the Department Representatives, is your go-to resource for all things Computer Science at Ashoka University. Explore course materials, project showcases, internship opportunities, and more, all curated to enhance your academic journey.</subtitle>
-  <updated>2026-02-08T21:43:22+05:30</updated>
+  <updated>2026-02-08T21:55:26+05:30</updated>
   <author>
     <name>CS Department Representatives</name>
     <uri>https://csrep.github.io/</uri>
@@ -81,13 +81,13 @@
   
   <entry>
     <title>From the India Conference at Harvard Hackathon to PReMI 2025</title>
-    <link href="https://csrep.github.io/posts/aryan-nath/" rel="alternate" type="text/html" title="From the India Conference at Harvard Hackathon to PReMI 2025" />
+    <link href="https://csrep.github.io/posts/aryan-nath-presenting-harvard/" rel="alternate" type="text/html" title="From the India Conference at Harvard Hackathon to PReMI 2025" />
     <published>2026-02-06T09:00:00+05:30</published>
   
     <updated>2026-02-06T09:00:00+05:30</updated>
   
-    <id>https://csrep.github.io/posts/aryan-nath/</id>
-    <content type="text/html" src="https://csrep.github.io/posts/aryan-nath/" />
+    <id>https://csrep.github.io/posts/aryan-nath-presenting-harvard/</id>
+    <content type="text/html" src="https://csrep.github.io/posts/aryan-nath-presenting-harvard/" />
     <author>
       <name>CS Department Representatives</name>
     </author>

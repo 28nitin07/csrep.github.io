@@ -6,19 +6,14 @@ date: 2026-02-6 09:00:00 +0530
 categories: [Conference, Data Science, Machine Learning]
 image:
   path: /photos/nath-presenting.jpeg
-  alt: Aryan Nath presenting the research.
+  alt: Aryan Nath presenting the research at PReMI.
 ---
-
-Aryan Nath presenting at PReMI 2025.
-
-
-Aryan Nath and team presented research on climate vulnerability analysis using explainable deep learning.
 
 Aryan Nath, a final-year Computer Science major and Mathematics minor at Ashoka University, recently attended the **International Conference on Pattern Recognition and Machine Intelligence (PReMI 2025)** to present his research on climate vulnerability assessment using explainable deep learning. Held at IIT Delhi, the conference served as a professional forum for researchers and practitioners working in pattern recognition, machine learning, and artificial intelligence. His participation provided an opportunity to engage with the international research community, present the team’s findings, and discuss the policy relevance of interpretable machine learning approaches for climate risk analysis.
 
 ## From the India Conference at Harvard Hackathon
 
-A student team comprising **Soumyajit Basu, Fiona Arora, Aryan Nath, and Karan Kumar**, mentored by **Prof. Lipika Dey**, was shortlisted as the **only student group selected to present in person** in the data science track of the Policy Hackathon, part of the India Conference at Harvard (ICH).
+A student team comprising **Soumyajit Basu, Fiona Arora, Aryan Nath, and Karan Kumar**, mentored by **Prof. Lipika Dey**, was shortlisted as the **the only student group selected to present in person at Harvard University** in the data science track of the Policy Hackathon, part of the India Conference at Harvard (ICH).
 
 Among more than a thousand participating teams - including policy professionals and domain experts - the project stood out for its ability to translate complex climate and socio-economic datasets into meaningful analytical insights.
 
@@ -31,7 +26,16 @@ With support from the **Mphasis AI & Applied Tech Lab**, Fiona Arora represented
 
   <figure style="text-align: center; width: 65%;">
     <img src="/photos/nath-and-team.jpeg" alt="Team at the India Conference at Harvard Hackathon" style="width: 100%; border-radius: 8px;">
-    <figcaption>Team at the India Conference at Harvard Hackathon</figcaption>
+    <figcaption>The Team</figcaption>
+  </figure>
+
+</div>
+
+<div style="display: flex; gap: 15px; justify-content: center; margin: 20px 0;">
+
+  <figure style="text-align: center; width: 65%;">
+    <img src="/photos/fiona-presenting.jpeg" alt="Team at the India Conference at Harvard Hackathon" style="width: 100%; border-radius: 8px;">
+    <figcaption>Fiona Arora presenting the work at Harvard University</figcaption>
   </figure>
 
 </div>
