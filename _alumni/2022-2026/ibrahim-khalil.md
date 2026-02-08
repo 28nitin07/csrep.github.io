@@ -21,22 +21,11 @@ organizations:
   - "Ashoka University Student Government"
 ---
   
-## Personal Bio
 
-I pursued a Bachelor of Science (four-year program) in Computer Science and Entrepreneurship at Ashoka University, graduating in 2026 with a strong academic foundation and interdisciplinary exposure. During my time at Ashoka, I completed coursework across computer science, economics, political science, and entrepreneurship, including subjects such as machine learning, data structures, econometrics, political economy, and media analysis. This academic journey helped me develop a balanced perspective on how technology, policy, and society interact.
+I am an undergraduate student at Ashoka University pursuing a four-year B.Sc. in Computer Science and Entrepreneurship, graduating in 2026. My academic journey has been shaped by coursework across computer science, economics, and design, including Data Structures, Computer Networks, Introduction to Machine Learning, Design Practices in Computer Science, Econometrics, and Creativity and Design Thinking. This interdisciplinary foundation has helped me develop a strong interest in building practical, user-centered technology products, particularly in security and infrastructure-heavy domains.
 
-My core skills include Python, JavaScript, Node.js, machine learning, data analysis, RESTful API development, cloud technologies, and product management. I worked extensively with tools such as Git, AWS, Stata, MongoDB, and Linux, and applied these skills across research, development, and leadership roles. I am particularly interested in building scalable systems and using data-driven methods to solve real-world problems.
+I currently work at Outthink as a Product Manager, where I lead product initiatives across real-time threat detection, phishing defense, and security behavior change. I have owned features end-to-end, from problem discovery and user research to PRDs, sprint execution, and launch. At Outthink, I shipped the company’s first production feature used by over 100 enterprise customers, built and launched PhishSignal—a real-time Chrome extension to counter phishing manipulation—and ran multiple product experiments across security UX and gamified awareness. My role involves close collaboration with engineers, designers, and QA teams, managing sprints, maintaining Jira workflows, and aligning delivery with customer needs.
 
-I gained professional experience across diverse organizations, including OUTTHINK, where I worked as a Product Manager and Product & Growth Fellow, leading cross-functional teams and launching cybersecurity products for enterprise users. I also worked as a Research Intern at NITI Aayog and Jan Jagran Shakti Sangathan, contributing to policy research, field studies, and grassroots development initiatives. At the Center for Economic Data and Analysis and the Centre for Translation, I developed data dashboards and large-scale search systems to improve access to multilingual resources. My early internships at organizations such as the Bombay Stock Exchange, Sequretek, and SaveLIFE Foundation helped me build strong foundations in cybersecurity, analytics, and software development.
+Alongside this, I have held research, development, and policy-focused roles at organizations including Bombay Stock Exchange Ltd, Sequretek, Sarfaroshi Foundation, and Ashoka University. These experiences range from malware analysis and honeypot research to cybersecurity policy evaluation, socio-economic field research, and large-scale web development projects. Within Ashoka University, I have also served in student government and technical leadership roles, building platforms used by thousands of students and deploying secure digital election systems.
 
-At Ashoka University, I actively contributed to campus life through leadership roles in the Student Government and the Career Development Office. As Minister and Deputy Minister of Technology, I led multiple digital initiatives that improved student engagement and administrative efficiency. I also served as a Teaching Assistant in the Computer Science Department and as Chief Technology Officer of the Ashoka University Election Commission.
-
-My academic and personal interests lie in computational social science, cybersecurity, machine learning, and product strategy. I enjoy working at the intersection of technology and public policy, and I am motivated by projects that have measurable social impact. In the future, I hope to continue building responsible digital systems, contribute to research-driven innovation, and work on products that improve institutional and civic processes in meaningful ways.
-
----
-
-## Links & Profiles
-
-- **LinkedIn:** https://www.linkedin.com/in/ibrahim-khalil-11a60b185/
-- **GitHub:** http://github.com/netviral/
-- **Portfolio / Website (if any):** NA
+My interests lie at the intersection of product, cybersecurity, and human behavior. I am particularly curious about how design, incentives, and systems thinking can reduce security risk at scale. Going forward, I aim to continue building high-impact security products and developer-facing tools that solve real-world problems through thoughtful execution and strong fundamentals.
