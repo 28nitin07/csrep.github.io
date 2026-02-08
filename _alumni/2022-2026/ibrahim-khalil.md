@@ -1,6 +1,6 @@
 ---
 layout: alumni-profile
-title: "Ibrahim Khalil | Computer Science & Entrepreneurship"
+title: "Ibrahim Khalil"
 name: "Ibrahim Khalil"
 batch_year: "2022-2026"
 major: "B.Sc. in Computer Science and Entrepreneurship"
